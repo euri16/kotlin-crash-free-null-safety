@@ -7,14 +7,14 @@ As we evolve as software developers, we learn and master the art 👨🏼‍🎨
 
 Learn how to improve that with Kotlin's features.
 
-You can find the full article [in Medium](https://medium.com/@euryperez/build-crash-free-apps-with-kotlins-null-safety-f5c4a45070f)
-
 You can learn:
 
 - Null Safety
 - Sealed Classes
 - Smart Casting
 - Best Practices
+
+You can find the full article [in Medium](https://medium.com/@euryperez/build-crash-free-apps-with-kotlins-null-safety-f5c4a45070f)
 
 License
 ----
